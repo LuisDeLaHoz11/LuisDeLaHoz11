@@ -2,7 +2,7 @@
 
 Soy Luis De la hoz! Un analista de sistemas, apasionado por la tecnologia, me dedico al desarrollo web, diseño grafico y creacion de contenido
 
-Fotografo y editor aficionado
+"Fotografo y editor" aficionado
 
 <h3>🛠 Habilidades </h3>
 
