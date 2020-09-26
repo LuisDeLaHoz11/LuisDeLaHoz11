@@ -6,7 +6,7 @@ Fotografo y editor aficionado
 
 Puedes encontrarme en 🌎: 
 
- -<a href="https://www.instagram.com/luisdelahoz9/">Instagram</a>📹 ✍🏾
+- <a href="https://www.instagram.com/luisdelahoz9/">Instagram</a>📹 ✍🏾
 - <a href="https://vsco.co/-delahoz-/gallery"/>Vsco</a> 💼
 
 
