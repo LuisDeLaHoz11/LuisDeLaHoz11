@@ -17,9 +17,7 @@ Soy Luis De la hoz! Un analista de sistemas, apasionado por la tecnologia, me de
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 
-Puedes encontrarme en 🌎🤝: 
+<h3>Puedes encontrarme en 🌎🤝 </h3>
 
 - <a href="https://www.instagram.com/luisdelahoz9/">Instagram</a>📹 ✍🏾
 - <a href="https://vsco.co/-delahoz-/gallery"/>Vsco</a> 💼
-- <a href="mailto:luisdelahoz99@hotmail.com"></a>
-
