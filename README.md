@@ -4,6 +4,13 @@ Soy Luis De la hoz! Un analista de sistemas, apasionado por la tecnologia, me de
 
 Fotografo y editor aficionado
 
+<h3>🛠 Habilidades </h3>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🖥 &nbsp; Illustrator| Photoshop | Davinci Resolve | Figma
+
 Puedes encontrarme en 🌎: 
 
 - <a href="https://www.instagram.com/luisdelahoz9/">Instagram</a>📹 ✍🏾
