@@ -4,12 +4,18 @@ Soy Luis De la hoz! Un analista de sistemas, apasionado por la tecnologia, me de
 
 "Fotografo y editor" aficionado
 
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+
+
 <h3>🛠 Habilidades </h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB | Maria DB
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Illustrator| Photoshop | Davinci Resolve | Figma
+
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+
 
 Puedes encontrarme en 🌎🤝: 
 
