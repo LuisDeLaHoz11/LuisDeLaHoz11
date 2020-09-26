@@ -11,9 +11,11 @@ Soy Luis De la hoz! Un analista de sistemas, apasionado por la tecnologia, me de
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Illustrator| Photoshop | Davinci Resolve | Figma
 
-Puedes encontrarme en 🌎: 
+Puedes encontrarme en 🌎🤝: 
 
 - <a href="https://www.instagram.com/luisdelahoz9/">Instagram</a>📹 ✍🏾
 - <a href="https://vsco.co/-delahoz-/gallery"/>Vsco</a> 💼
+- <a href="mailto:luisdelahoz99@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-luisdelahoz99@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
