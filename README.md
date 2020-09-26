@@ -7,8 +7,8 @@ Fotografo y editor aficionado
 <h3>🛠 Habilidades </h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🛢 &nbsp; MySQL | MongoDB | Maria DB
+- 🔧 &nbsp; Git 
 - 🖥 &nbsp; Illustrator| Photoshop | Davinci Resolve | Figma
 
 Puedes encontrarme en 🌎: 
