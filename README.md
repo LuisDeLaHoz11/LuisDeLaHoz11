@@ -23,3 +23,7 @@ Soy Luis De la hoz! Un analista de sistemas, apasionado por la tecnologia, me de
 - <a href="https://vsco.co/-delahoz-/gallery"/>Vsco</a> 🖼️
 - <a href="https://giphy.com/channel/Luisdelahoz9"/>Giphy</a> 🎴
 
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
