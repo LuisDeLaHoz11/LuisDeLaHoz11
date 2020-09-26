@@ -5,7 +5,7 @@ Soy Luis De la hoz! Un analista de sistemas apasionado por la tecnologia, me ded
 Fotografo y editor aficionado
 
 Puedes encontrarme en 🌎:
-- Instagram  <a href="https://www.instagram.com/luisdelahoz9/>Instagram"></a>📹 ✍🏾
-- Vsco       <a href="https://vsco.co/-delahoz-/gallery/>    Vsco"></a> 💼
+- Instagram  <a href="https://www.instagram.com/luisdelahoz9/">Instagram></a>📹 ✍🏾
+- Vsco       <a href="https://vsco.co/-delahoz-/gallery"/>Vsco></a> 💼
 
 
